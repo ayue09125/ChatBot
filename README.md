@@ -13,7 +13,7 @@
 <h2>In your code:</h2>
 <ul>
   <li>Open the index.js file and find the the API_KEY variable at the top of the file.</li>
-  <li>Paste in your API key</li>
+  <li>Paste in your API key within the quotations</li>
 </ul>
 
 <h2>Now you're good to go!</h2>
